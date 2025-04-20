@@ -1,2 +1,2 @@
-# stor-wedsite
+# store-wedsite
  
